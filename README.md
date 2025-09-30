@@ -3,13 +3,10 @@
 
 ![AI Engineer | React Native Developer | Computer Vision & NLP](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=python&logoColor=white)
 
-# Hi 👋, I'm Muhammad Touseeq  
+# Hi 👋, I'm Muhammad Touseeq                                                                  👉 [View My Portfolio](https://touseeq20.github.io/MyPortfolio/) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=600&lines=AI%2FML+Engineer;React+Native+Developer;Computer+Vision+%7C+NLP+Enthusiast;Always+Learning+%26+Building+Impactful+AI+🚀)](https://git.io/typing-svg)  
 
----
-## 🌐 Live Portfolio  
-👉 [View My Portfolio](https://touseeq20.github.io/MyPortfolio/)  
 ---
 
 ## 🚀 About Me
