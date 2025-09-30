@@ -1,4 +1,6 @@
 <!-- Banner -->
+![Muhammad Touseeq Banner](https://raw.githubusercontent.com/Touseeq20/Touseeq20/main/assets/banner.png)
+
 ![AI Engineer | React Native Developer | Computer Vision & NLP](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=python&logoColor=white)
 
 # Hi 👋, I'm Muhammad Touseeq  
