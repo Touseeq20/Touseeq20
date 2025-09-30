@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Muhammad Touseeq Banner](banner.png)
 
-![AI Engineer | React Native Developer | Computer Vision & NLP](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=python&logoColor=white)
+![AI Engineer | React Native Developer | Computer Vision & NLP](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=python&logoColor=white)  [![Visit](https://img.shields.io/badge/Visit-My_Portfolio-8B5CF6?style=for-the-badge\&logo=vercel)](https://touseeq20.github.io/MyPortfolio/) 
 
 # Hi 👋, I'm Muhammad Touseeq                                                                  
 
