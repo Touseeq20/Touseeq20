@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Muhammad Touseeq Banner](banner.png)
 
-![AI Engineer | React Native Developer | Computer Vision & NLP](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=python&logoColor=white)  [![Visit](https://img.shields.io/badge/Visit-My_Portfolio-8B5CF6?style=for-the-badge\&logo=vercel)](https://touseeq20.github.io/MyPortfolio/) 
+![AI Engineer | React Native Developer | Computer Vision & NLP](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=python&logoColor=white)  [![Visit](https://img.shields.io/badge/Visit-My_Portfolio-8B5CF6?style=for-the-badge&logo=vercel)](https://touseeq20.github.io/MyPortfolio/) 
 
 # Hi 👋, I'm Muhammad Touseeq                                                                  
 
@@ -10,24 +10,24 @@
 ---
 
 ## 🚀 About Me
-🎓 **BSCS (AI Specialization, 2021–2025)** – PMAS Arid Agriculture University, Rawalpindi  
+🎓 **BSCS (AI Specialization, 2021-2025)** : PMAS Arid Agriculture University, Rawalpindi  
 💡 Passionate about **AI/ML, Computer Vision, NLP, and Mobile Development**  
-🔬 Experienced in **end-to-end ML pipelines**: data annotation → model training → deployment  
+🔬 Experienced in **end-to-end ML pipelines**: data annotation -> model training -> deployment  
 📱 Skilled in **React Native** for AI-powered mobile applications  
 🌍 Open to **collaborations, internships, and AI research projects**  
 
 ---
 
 ## 🎓 Education
-- **BS Computer Science (AI Specialization)** — PMAS Arid Agriculture University, Rawalpindi *(2021 – 2025)*  
-- **F.Sc. Pre-Engineering** — Steps College, Rawalpindi *(2019 – 2021)*  
-- **Matriculation** — Aisha Lasani Model High School, Rawalpindi *(2019)*  
+- **BS Computer Science (AI Specialization)** : PMAS Arid Agriculture University, Rawalpindi (2021 - 2025)  
+- **F.Sc. Pre-Engineering** : Steps College, Rawalpindi (2019 - 2021)  
+- **Matriculation** : Aisha Lasani Model High School, Rawalpindi (2019)  
 
 ---
 
 ## 💼 Experience
-- 🖥️ **Junior AI Engineer (Remote Intern)** — CareCloud-MTBC *(Jun 2025 – Sept 2025)*  
-- 🤖 **Machine Learning Intern (Remote)** — CodSoft *(May 2024 – Jun 2024)*  
+- 🖥️ **Junior AI Engineer (Remote Intern)** : CareCloud-MTBC (Jun 2025 - Sept 2025)  
+- 🤖 **Machine Learning Intern (Remote)** : CodSoft (May 2024 - Jun 2024)  
 
 ---
 
@@ -60,44 +60,37 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-00C853?style=flat&logo=roboflow&logoColor=white)
-
 ---
 
 ## 📂 Featured Projects
 
-### 🎯 University Projects
-- 🛒 **Cash & Carry Inventory System** – Java-based billing system with file handling  
-- 🧑‍💻 **Face Recognition Attendance System** – Python + OpenCV  
-- ✍️ **Next Word Prediction** – NLP model predicting next words in a sentence  
-- 🎮 **Checkers Game** – C# GUI with TCP-based client-server communication  
+### 🌟 Latest: Football Analysis Suite (AI/ML)
+- ⚽ **[Goal Detection System](https://github.com/Touseeq20/football-goal-detection)** : Real-time ball trajectory and goal net segmentation using YOLOv8.
+- 👤 **[Player Face Recognition](https://github.com/Touseeq20/player-face-recognition)** : State-of-the-art identification using ArcFace embeddings.
+- 👕 **[Jersey Number OCR](https://github.com/Touseeq20/jersey-number-detection)** : Robust tracking linking player IDs with recognized jersey numbers.
+- 🦅 **[Combined Match Analyzer](https://github.com/Touseeq20/football-match-analyzer)** : Unified analytics platform for goals, fouls, and player tracking.
 
 ### 📱 React Native Mobile Apps
-- ⚽ **Football Match Summary Generator** – Detects goals/fouls, identifies players (face + jersey), and generates highlights with tournament history  
-- 📖 **Daily Quran Ayat Reciter** – AI mood prediction + SQLite app for personalized Quranic verses with notifications  
+- ⚽ **Football Match Summary Generator** : Detects events, identifies players, and generates highlights.
+- 📖 **Daily Quran Ayat Reciter** : AI mood prediction app for personalized Quranic verses.
 
-### 🌐 Web Development
-- 🤖 **RAG Document Chatbot** – Streamlit + FAISS + HuggingFace + OpenAI/DeepSeek APIs  
-- 🍴 **Restaurant Menu Website** – Static website using HTML/CSS/JS  
+### 🌐 Web & AI
+- 🤖 **RAG Document Chatbot** : Streamlit + FAISS integrated with OpenAI and DeepSeek APIs.
+- 🧑‍💻 **Face Recognition Attendance** : Automated system developed using Python and OpenCV.
 
 ---
 
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Touseeq20&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Touseeq20\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Touseeq20&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Touseeq20&theme=tokyonight)  
 
 ---
 
 ## 🌐 Live Portfolio  
-👉 [View My Portfolio](https://touseeq20.github.io/MyPortfolio/)  
+👉 [Explore My Work](https://touseeq20.github.io/MyPortfolio/)  
 
 ---
 
@@ -114,4 +107,4 @@
 ---
 
 ⭐ **Thanks for Visiting!**  
-If you like my work, consider ⭐ starring the repositories and let’s build something impactful together 🚀  
+Let's collaborate on building the next generation of AI solutions! 🚀
