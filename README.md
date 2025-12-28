@@ -1,3 +1,5 @@
+![Banner](github-header-banner%20(3).png)
+
 # Hi 👋, I'm Muhammad Touseeq
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=600&lines=AI%2FML+Engineer;React+Native+Developer;Computer+Vision+%7C+NLP+Enthusiast;Always+Learning+%26+Building+Impactful+AI+🚀)](https://git.io/typing-svg)
@@ -9,7 +11,7 @@
 
 🎓 **BSCS (AI Specialization, 2021-2025)** : PMAS Arid Agriculture University, Rawalpindi  
 💡 Passionate about **AI/ML, Computer Vision, NLP, and Mobile Development**  
-🔬 Experienced in **end-to-end ML pipelines**: data annotation → model training → deployment  
+🔬 Experienced in **end-to-end ML pipelines**: data annotation -> model training -> deployment  
 📱 Skilled in **React Native** for AI-powered mobile applications  
 🌍 Open to **collaborations, internships, and AI research projects**
 
@@ -17,21 +19,21 @@
 
 ## 💼 Professional Experience
 
-### 🏢 **Junior Support Officer** — NTC Headquarters Islamabad (Data Center)
-**Oct 2025 – Present**
+### 🏢 **Junior Support Officer** : NTC Headquarters Islamabad (Data Center)
+**Oct 2025 - Present**
 - Developed and maintained the **Ticketing/Complaint Management Portal**
 - Implemented **role-based access control** and deployed on **cPanel**
 - Built a **support chatbot** to automate user queries and improve service efficiency
 - **Live Project**: [https://dc-support.ntc.org.pk](https://dc-support.ntc.org.pk)
 
-### 🤖 **Junior AI Engineer (Remote Intern)** — CareCloud-MTBC
-**Jun 2025 – Oct 2025**
+### 🤖 **Junior AI Engineer (Remote Intern)** : CareCloud-MTBC
+**Jun 2025 - Oct 2025**
 - Research and development of **computer vision models** for healthcare applications
 - Optimized **AI pipelines** and improved diagnostic accuracy
 - Worked on medical imaging and data analysis projects
 
-### 🧠 **Machine Learning Intern (Remote)** — CodSoft
-**May 2024 – Jun 2024**
+### 🧠 **Machine Learning Intern (Remote)** : CodSoft
+**May 2024 - Jun 2024**
 - Implemented and optimized **ML models** for predictive analytics and classification tasks
 - Contributed to **data-driven insights** and model performance improvements
 - Worked on various machine learning projects and pipelines
@@ -40,10 +42,10 @@
 
 ## 🎓 Education
 
-### **BS Computer Science – AI Specialization** (2021 – 2025)
+### **BS Computer Science : AI Specialization** (2021 - 2025)
 **PMAS Arid Agriculture University, Rawalpindi**
 
-### **F.Sc. Pre-Engineering** (2019 – 2021)
+### **F.Sc. Pre-Engineering** (2019 - 2021)
 **Steps College, Rawalpindi**
 
 ### **Matriculation** (2019)
