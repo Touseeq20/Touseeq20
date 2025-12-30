@@ -12,7 +12,7 @@ AI-focused Computer Science graduate with strong expertise in developing and dep
 
 🎓 **BSCS (AI Specialization, 2021–2025)** | PMAS Arid Agriculture University, Rawalpindi  
 💡 Passionate about AI/ML, Computer Vision, NLP, and Mobile Development  
-🔬 Hands-on experience with end-to-end ML pipelines from data annotation to deployment  
+🔬 Hands-on experience with end-to-end ML pipelines from data annotation -> model training -> deployment  
 📱 Skilled in React Native for AI-powered mobile applications  
 🌍 Open to collaborations, internships, and AI research opportunities  
 
