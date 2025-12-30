@@ -146,9 +146,10 @@ Enterprise ticketing system developed for the **Government of Pakistan, Ministry
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Touseeq20&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Touseeq20&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Touseeq20&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Touseeq20\&show\_icons=true\&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Touseeq20\&layout=compact\&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Touseeq20\&theme=tokyonight)  
 
 ---
 
