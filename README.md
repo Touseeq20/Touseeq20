@@ -134,6 +134,14 @@ Enterprise ticketing system developed for the **Government of Pakistan, Ministry
 **Features:** Role-based access control, support chatbot, ticket tracking  
 **Live:** https://dc-support.ntc.org.pk  
 
+
+### 📱React Native Mobile Applications
+
+**Football Match Summary Generator**: AI-powered mobile app that detects goals, fouls, and identifies players using facial and jersey number recognition. Automatically generates match highlights and organizes tournament history
+
+**Daily Quran Ayat Reciter** : Standalone React Native SQLite app delivering personalized Quranic verses daily using AI mood prediction (Decision Tree algorithm). Maintains user history and tracks emotional patterns
+
+
 ---
 
 ## 📊 GitHub Analytics
