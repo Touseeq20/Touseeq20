@@ -37,6 +37,17 @@ AI-focused Computer Science graduate with strong expertise in developing and dep
 - Optimized AI pipelines to improve diagnostic accuracy
 - Worked on medical imaging analysis and healthcare datasets
 
+### 💻 Software & IT Support Associate
+**Marvellous Coders, Islamabad**  
+**Jan 2025 – Oct 2025**
+
+- Worked on software development and application support across multiple projects.
+- Provided IT system troubleshooting, maintenance, and performance optimization.
+- Delivered technical support to users and resolved system-related issues efficiently.
+- Assisted in system deployment, configuration, and environment setup.
+- Monitored and maintained system reliability and performance.
+- Collaborated with team members to ensure smooth IT operations and service delivery.
+
 ### 🧠 Machine Learning Intern (Remote)  
 **CodSoft**  
 **May 2024 – Jun 2024**
