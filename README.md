@@ -260,13 +260,13 @@ Large-scale traffic and environmental data analysis using data mining and ML —
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Touseeq20/Touseeq20/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-> ⚠️ Ye tab tak "eaten" GIF nahi dikhayega jab tak `snake.yml` workflow tumhari `Touseeq20/Touseeq20` repo mein add + run na ho jaye.
+> ⚠️ Ye tab tak "eaten" GIF nahi dikhayega jab tak `snake.yml` workflow tumhari `Touseeq20/Touseeq20` repo mein add + run na ho jaye. Poori setup **SETUP-GUIDE.md** mein hai.
 
 #### 🧊 3D Contribution Calendar
 
 <img src="https://raw.githubusercontent.com/Touseeq20/Touseeq20/main/profile-3d-contrib/grid.svg" width="100%"/>
 
-> ⚠️ Ye bhi ek GitHub Action (`profile-3d-contrib.yml`) chalne ke baad hi generate hogi.
+> ⚠️ Ye bhi ek GitHub Action (`profile-3d-contrib.yml`) chalne ke baad hi generate hogi — same setup guide mein steps hain.
 
 <div align="center">
 
